@@ -1,0 +1,10 @@
+soldQty name price totPrice leftQty
+
+1   Coke   15    15   24   
+
+2   Coke   15    30   22   
+
+1   Coke   15    15   21   
+
+1   Coke   15    15   20   
+
